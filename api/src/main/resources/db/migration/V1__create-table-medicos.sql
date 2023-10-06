@@ -11,6 +11,7 @@ create table medicos(
     complemento varchar(100),
     numero varchar(20),
     uf char(2) not null,
+    telefone VARCHAR(20) NOT NULL,
     cidade varchar(100) not null,
 
     primary key(id)
