@@ -1,4 +1,4 @@
-# Java's Pizzaria
+# medVoll
 
 <div align="center">
 <img src="src/img/site.png" width="2000px" alt="Imagem do site" title="Imagem do site"/>
