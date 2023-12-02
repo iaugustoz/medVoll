@@ -28,7 +28,8 @@ Projeto em andamento.
 - Flyway Migration;
 - MySQL Driver;
 - Lombok;
-- Maven.
+- Maven;
+- [auth0](https://github.com/auth0/java-jwt).
 
 ## Instalando
 
